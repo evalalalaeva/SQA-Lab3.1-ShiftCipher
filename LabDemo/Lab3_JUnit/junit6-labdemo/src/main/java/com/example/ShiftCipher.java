@@ -1,4 +1,4 @@
-package sqa.lab;
+package com.example;
 
 public class ShiftCipher {
 	
